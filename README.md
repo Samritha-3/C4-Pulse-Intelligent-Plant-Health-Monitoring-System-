@@ -65,8 +65,7 @@ The prototype architecture is implemented using an **Arduino UNO** microcontroll
 ### Proteus 8 Simulation Schematic Capture
 Below is the circuit wireframe mapping layout configured inside Proteus for tracking signal execution profiles:
 
-![](<img width="1366" height="768" alt="C4-Pulse" src="https://github.com/user-attachments/assets/1ebb20f3-ece4-482b-8ca4-0f776c9db3b9" />
-)
+![](C4-Pulse.png)
 
 ### Simulation Calibration Logic Workaround
 In field deployments, an on-board **Calibration Push Button** samples a baseline healthy control plant to calibrate contextual coefficients relative to changing day-night intervals. 
