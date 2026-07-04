@@ -1,4 +1,4 @@
-# C4-Pulse-Intelligent-Plant-Health-Monitoring-System-
+# C4-Pulse-Intelligent-Plant-Health-Monitoring-System:
 
 C4-Pulse is a real-time, smart agricultural diagnostic tool designed to evaluate crop water stress levels dynamically. By integrating environmental microclimate data with non-contact canopy temperature sensing, the system automates the acquisition, processing, and validation of the **Crop Water Stress Index (CWSI)**. The system translates raw environmental indicators into clear, actionable physical and visual feedback to optimize irrigation cycles and early disease detection.
 
