@@ -1,12 +1,11 @@
 # C4-Pulse-Intelligent-Plant-Health-Monitoring-System-
-# Crop Guard: An IoT-Based Plant Health Monitoring System
 
-Crop Guard is a real-time, smart agricultural diagnostic tool designed to evaluate crop water stress levels dynamically. By integrating environmental microclimate data with non-contact canopy temperature sensing, the system automates the acquisition, processing, and validation of the **Crop Water Stress Index (CWSI)**. The system translates raw environmental indicators into clear, actionable physical and visual feedback to optimize irrigation cycles and early disease detection.
+C4-Pulse is a real-time, smart agricultural diagnostic tool designed to evaluate crop water stress levels dynamically. By integrating environmental microclimate data with non-contact canopy temperature sensing, the system automates the acquisition, processing, and validation of the **Crop Water Stress Index (CWSI)**. The system translates raw environmental indicators into clear, actionable physical and visual feedback to optimize irrigation cycles and early disease detection.
 
 ---
 
 ## 💡 Abstract Idea
-Crop Guard follows a structured, sequential workflow that transforms raw, real-time sensor data collected from target crops into human-identifiable visual outputs, providing precise insights into immediate plant health status. 
+C4-Pulse follows a structured, sequential workflow that transforms raw, real-time sensor data collected from target crops into human-identifiable visual outputs, providing precise insights into immediate plant health status. 
 
 ### Core Scientific Concepts
 * **Leaf-Air Temperature Difference ($LAD$):** Represents the thermal variance between the plant canopy surface and its surrounding atmosphere ($LAD = T_{leaf} - T_{air}$). 
@@ -66,7 +65,8 @@ The prototype architecture is implemented using an **Arduino UNO** microcontroll
 ### Proteus 8 Simulation Schematic Capture
 Below is the circuit wireframe mapping layout configured inside Proteus for tracking signal execution profiles:
 
-![](YOUR_IMAGE_LINK_HERE_e.g.,_schematic.png)
+![](<img width="1366" height="768" alt="C4-Pulse" src="https://github.com/user-attachments/assets/1ebb20f3-ece4-482b-8ca4-0f776c9db3b9" />
+)
 
 ### Simulation Calibration Logic Workaround
 In field deployments, an on-board **Calibration Push Button** samples a baseline healthy control plant to calibrate contextual coefficients relative to changing day-night intervals. 
