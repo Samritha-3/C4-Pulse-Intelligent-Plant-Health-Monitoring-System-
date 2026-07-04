@@ -87,3 +87,14 @@ Because Proteus evaluates immediate hardware logic cycles rather than long-term 
 1. Connect the sensors according to the `Full Bill of Materials` connection matrix utilizing standard I2C physical pull-up configurations.
 2. Upload the `Crop_Guard.ino` sketch directly into your physical Arduino Uno unit via a USB interface.
 3. Open your hardware serial monitor workspace at `9600 baud` rate to inspect mathematical outputs concurrently alongside the physical LCD visual alerts.
+
+
+---
+
+## 🔒 Copyright & Intellectual Property
+
+© 2026 Samritha S. All rights reserved.
+
+This repository and its contents (including all source code, documentation, datasets, and simulation configurations) are the exclusive intellectual property of the author. 
+
+**No license is granted for this software.** Visitors may view and clone the code for personal educational evaluation only. Unauthorized copying, modification, distribution, redistribution, or commercial use of this material without explicit written permission from the author is strictly prohibited.
